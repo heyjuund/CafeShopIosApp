@@ -27,7 +27,7 @@ struct CafeShoppDetailView: View {
             .fontWeight(.semibold)
             .frame(width: 350)
             .foregroundColor(.white)
-            .background(.opacity(0.7))
+            .background(.opacity(0.5))
             .cornerRadius(20)
         }
     }
